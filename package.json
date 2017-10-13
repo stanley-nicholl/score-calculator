@@ -1,0 +1,23 @@
+{
+  "name": "score-calculator",
+  "version": "1.0.0",
+  "description": "## Instructions scores.txt has the scores of each player of the game. There is one player per line, and 3 scores per player. The winner is whoever has the largest sum of scores.  You should log the name of the winner, and their total score.",
+  "main": "main.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stanley-nicholl/score-calculator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stanley-nicholl/score-calculator/issues"
+  },
+  "homepage": "https://github.com/stanley-nicholl/score-calculator#readme",
+  "dependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^4.0.1"
+  }
+}
